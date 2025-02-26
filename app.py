@@ -30,7 +30,7 @@ uploaded_file = st.file_uploader("Choose an MRI image...", type=["jpg", "jpeg", 
 if uploaded_file is not None:
     # Display uploaded image
     img = Image.open(uploaded_file)
-    st.image(img, caption='Uploaded MRI Image', use_container_width=True)
+    st.image(img, caption='Uploaded MRI Image')  
 
     # Preprocess the image
     img = img.convert('RGB').resize((224, 224))
