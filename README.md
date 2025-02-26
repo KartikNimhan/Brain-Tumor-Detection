@@ -60,8 +60,7 @@ This project is licensed under the MIT License.
 Feel free to fork this repo and submit pull requests for improvements!
 
 ---
-## 📬 Contact
-For any queries, reach out via GitHub Issues or email me at `your-email@example.com`.
+
 
 🚀 Happy Coding!
 
