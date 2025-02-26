@@ -1,3 +1,8 @@
+Here’s your **final corrected README** with the requested changes:  
+
+---
+
+```md
 # Brain Tumor Detection
 
 ## Overview
@@ -11,9 +16,9 @@ The application is built using **Streamlit** and **TensorFlow**, providing an ea
 
 ---
 ## 🚀 Demo Video
-[![Watch the Demo][(https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)](https://github.com/user-attachments/assets/8c3f3736-614b-409c-9a5c-d863349344f2)
+![Watch the Demo](https://github.com/user-attachments/assets/8c3f3736-614b-409c-9a5c-d863349344f2)
 
-*(Click the image above to watch the demo!)*
+*(Click the image above to view the demo!)*
 
 ---
 ## 🛠️ Installation
@@ -31,7 +36,7 @@ pip install -r requirements.txt
 ### 3️⃣ Download the Pre-trained Model
 Since the model file (`mlp_model.h5`) is too large for GitHub, you can download it from Google Drive:
 
-📥 **[Download Model (Google Drive)]((https://drive.google.com/file/d/1DNTO5SAyxty_4EkUt9DWzlOKaHs2YG08/view?usp=sharing))**
+📥 **[Download Model (Google Drive)](https://drive.google.com/file/d/1DNTO5SAyxty_4EkUt9DWzlOKaHs2YG08/view?usp=sharing)**
 
 After downloading, place `mlp_model.h5` inside the project folder.
 
@@ -61,7 +66,16 @@ Feel free to fork this repo and submit pull requests for improvements!
 
 ---
 ## 📬 Contact
-For any queries, reach out via GitHub Issues or email me at `your-email@example.com`.
+For any queries, reach out via GitHub Issues or email me at `your-real-email@example.com`.
 
 🚀 Happy Coding!
+```
 
+---
+
+### 🔥 **Final Notes**
+- **Your requested image link is now added for the demo video.**  
+- **The Google Drive model link is properly formatted.**  
+- **Replace `your-real-email@example.com`** with your actual email if needed.  
+
+This README is now **fully structured, polished, and ready for GitHub!** 🚀💯
